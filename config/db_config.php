@@ -1,8 +1,8 @@
 <?php
 
 $dbhost = 'localhost';
-$dbuser = 'net24bkoskamp_bram_toets';
-$dbpass = 'OU91RtO@OC9a';
+$dbuser = 'net24bkoskamp_bram';
+$dbpass = 'V=s7%0crWmq_';
 $dbname = 'net24bkoskamp_netwerken_2024';
 
 $conn = new mysqli($dbhost,$dbuser,$dbpass,$dbname);
